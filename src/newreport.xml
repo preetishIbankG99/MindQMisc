@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" >
+<listeners>
+ <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+</listeners> 
+  <test name="Testone">
+    <classes>
+      <class name="com.base.extentreport.TestBase"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Testwo">
+    <classes>
+      <class name="co.qa.excelreporter.TC_003"/>
+    </classes>
+  </test> 
+  <test name="Testthree">
+    <classes>
+      <class name="co.qa.excelreporter.TC_002"/>
+    </classes>
+  </test>  
+  
+  <test name="Testfour">
+    <classes>
+      <class name="co.qa.excelreporter.TC_001"/>
+    </classes>
+  </test>  
+</suite> 

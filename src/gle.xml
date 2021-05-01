@@ -1,0 +1,12 @@
+
+<suite name="Google">
+<listeners>
+<listener class-name="org.uncommons.reportng.HTMLReporter"/>
+<listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+</listeners>
+  <test name="verifying google home page">
+    <classes>
+      <class name="testNGtest.Google"/>
+    </classes>
+  </test> 
+</suite> 

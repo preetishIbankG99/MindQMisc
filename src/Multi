@@ -1,0 +1,9 @@
+
+<suite name="HMS" >
+  <test name="Sanity Tests">
+    <classes>
+      <class name="javaTestNG.NewTest1"/>
+      <class name="javaTestNG.NewTest3"/>
+    </classes>
+  </test> 
+</suite> 

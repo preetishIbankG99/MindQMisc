@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" >
+<listeners>
+<listener class-name="collection.TestNGListener"/>
+</listeners>
+  <test name="Test">
+    <classes>
+      <class name="collection.MyNewTestListener"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

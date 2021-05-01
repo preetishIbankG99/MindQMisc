@@ -1,0 +1,4 @@
+ChromeDriver=H:\\lattttaaast\\chromedriver.exe
+IEDriver=H:\\testing tools videos\\IEDriverServer.exe
+URL=https://www.facebook.com/
+ExcelPath=

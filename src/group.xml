@@ -1,0 +1,14 @@
+
+<suite name="Suite">
+  <test name="Test">
+    
+    <groups>
+    <run>
+    <include name="sanity"/>
+   </run>
+   </groups>
+   <classes>
+      <class name="testNGtest.GroupTest"/>
+    </classes>
+  </test> 
+</suite> 

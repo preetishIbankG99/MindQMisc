@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="test"  threadcount="2" verbose="10">
+  <test name="FirefoxTest" preserve-order="false">
+  <parameters>
+  <parameter name="browser" value="firefox"/>
+  </parameters>
+    <classes>
+      <class name="testNGtest.FreeAllBrowserCheck"/>
+    </classes>
+    </test>
+    <test name="ChromeTest" preserve-order="false">
+  <parameters>
+  <parameter name="browser" value="chrome"/>
+  </parameters>
+    <classes>
+      <class name="testNGtest.FreeAllBrowserCheck"/>
+    </classes>
+    </test>
+    <test name="InterNetExplorer" preserve-order="false">
+  <parameters>
+  <parameter name="browser" value="internetexplorer"/>
+  </parameters>
+    <classes>
+      <class name="testNGtest.FreeAllBrowserCheck"/>
+    </classes>
+    </test>
+    </suite> <!-- Suite -->
+<!-- If you want the classes and methods listed in this file to be run in an unpredictable order, 
+set the preserve-order attribute to false, 
+Now we will define testng.xml file with preserve-order attribute for tests and set the value as 'false'. -->

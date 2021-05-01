@@ -1,0 +1,77 @@
+2017-07-09 10:08:09,555 - MyClass -INFO - #######Firefox Opened##########
+2017-07-09 10:08:09,887 - MyClass -INFO - #######Browser Maximized##########
+2017-07-09 10:09:08,435 - MyClass -INFO - #######Fetching url##########
+2017-07-09 10:09:10,152 - MyClass -INFO - #######Inserting Valid Userid##########
+2017-07-09 10:09:11,046 - MyClass -INFO - #######Inserting Valid Password##########
+2017-07-09 10:10:38,523 - MyClass -INFO - #######Firefox Opened##########
+2017-07-09 10:10:39,069 - MyClass -INFO - #######Browser Maximized##########
+2017-07-09 10:11:18,551 - MyClass -INFO - #######Fetching url##########
+2017-07-09 10:11:23,562 - MyClass -INFO - #######Inserting Valid Userid##########
+2017-07-09 10:11:24,403 - MyClass -INFO - #######Inserting Valid Password##########
+2017-07-09 10:16:50,870 - MyClass -INFO - #######Firefox Opened##########
+2017-07-09 10:16:51,398 - MyClass -INFO - #######Browser Maximized##########
+2017-07-09 10:17:21,320 - MyClass -INFO - #######Fetching url##########
+2017-07-09 10:17:23,443 - MyClass -INFO - #######Inserting Valid Userid##########
+2017-07-09 10:17:24,457 - MyClass -INFO - #######Inserting Valid Password##########
+2017-07-09 10:18:21,571 - MyClass -INFO - #######Firefox Opened##########
+2017-07-09 10:18:22,260 - MyClass -INFO - #######Browser Maximized##########
+2017-07-09 10:18:31,667 - MyClass -INFO - #######Fetching url##########
+2017-07-09 10:32:50,978 - MyClass -INFO - #######Firefox Opened##########
+2017-07-09 10:32:51,353 - MyClass -INFO - #######Browser Maximized##########
+2017-07-09 10:33:57,699 - MyClass -INFO - #######Fetching url##########
+2017-07-09 10:33:59,154 - MyClass -INFO - #######Inserting Valid Userid##########
+2017-07-09 10:33:59,934 - MyClass -INFO - #######Inserting Valid Password##########
+2017-08-01 00:53:33,491 - Log4Class -INFO - #######Firefox Opened##########
+2017-08-01 00:53:34,880 - Log4Class -INFO - #######Browser Maximized##########
+2017-08-01 00:55:02,632 - Log4Class -INFO - #######Fetching url##########
+2017-08-01 00:55:06,823 - Log4Class -INFO - #######Inserting Valid Userid##########
+2017-08-01 00:55:06,977 - Log4Class -INFO - #######Inserting Valid Password##########
+2017-08-18 22:38:56,873 - collection.ObjectRepository2 -INFO - #######Firefox Opened##########
+2017-08-18 22:38:57,292 - collection.ObjectRepository2 -INFO - #######Window maximized##########
+2017-08-18 22:39:41,575 - collection.ObjectRepository2 -INFO - #######Url Entered##########
+2017-08-18 22:39:42,367 - collection.ObjectRepository2 -INFO - #######Input username##########
+2017-08-18 22:39:43,402 - collection.ObjectRepository2 -INFO - #######input password##########
+2017-08-18 22:41:11,726 - collection.ObjectRepository2 -INFO - #######Button clicked##########
+2017-08-18 23:52:58,917 - collection.ObjectRepository2 -INFO - #######Firefox Opened##########
+2017-08-18 23:52:59,508 - collection.ObjectRepository2 -INFO - #######Window maximized##########
+2017-08-18 23:53:05,918 - collection.ObjectRepository2 -INFO - #######Url Entered##########
+2017-08-18 23:53:06,884 - collection.ObjectRepository2 -INFO - #######Input username##########
+2017-08-18 23:53:07,868 - collection.ObjectRepository2 -INFO - #######input password##########
+2017-08-18 23:53:48,590 - collection.ObjectRepository2 -INFO - #######Firefox Opened##########
+2017-08-18 23:53:49,056 - collection.ObjectRepository2 -INFO - #######Window maximized##########
+2017-08-18 23:53:53,325 - collection.ObjectRepository2 -INFO - #######Url Entered##########
+2017-08-18 23:53:53,759 - collection.ObjectRepository2 -INFO - #######Input username##########
+2017-08-18 23:53:54,863 - collection.ObjectRepository2 -INFO - #######input password##########
+2017-08-18 23:56:59,747 - collection.ObjectRepository2 -INFO - #######Firefox Opened##########
+2017-08-18 23:56:59,985 - collection.ObjectRepository2 -INFO - #######Window maximized##########
+2017-08-18 23:57:03,130 - collection.ObjectRepository2 -INFO - #######Url Entered##########
+2017-08-18 23:57:03,646 - collection.ObjectRepository2 -INFO - #######Input username##########
+2017-08-18 23:57:04,504 - collection.ObjectRepository2 -INFO - #######input password##########
+2017-08-19 00:00:45,124 - collection.ObjectRepository2 -INFO - #######Firefox Opened##########
+2017-08-19 00:00:45,235 - collection.ObjectRepository2 -INFO - #######Window maximized##########
+2017-08-19 00:01:08,997 - collection.ObjectRepository2 -INFO - #######Url Entered##########
+2017-08-19 00:01:12,834 - collection.ObjectRepository2 -INFO - #######Input username##########
+2017-08-19 00:01:12,927 - collection.ObjectRepository2 -INFO - #######input password##########
+2017-08-19 00:05:32,482 - collection.ObjectRepository2 -INFO - #######logout button##########
+2017-08-19 00:47:07,948 - collection.ObjectRepository2 -INFO - #######Firefox Opened##########
+2017-08-19 00:47:08,553 - collection.ObjectRepository2 -INFO - #######Window maximized##########
+2017-08-19 00:47:26,625 - collection.ObjectRepository2 -INFO - #######Url Entered##########
+2017-08-19 00:47:27,113 - collection.ObjectRepository2 -INFO - #######Input username##########
+2017-08-19 00:47:27,228 - collection.ObjectRepository2 -INFO - #######input password##########
+2017-08-19 00:49:11,321 - collection.ObjectRepository2 -INFO - #######logout button##########
+2017-08-19 00:52:12,335 - collection.ObjectRepository2 -INFO - #######Firefox Opened##########
+2017-08-19 00:52:12,959 - collection.ObjectRepository2 -INFO - #######Window maximized##########
+2017-08-19 00:52:19,502 - collection.ObjectRepository2 -INFO - #######Url Entered##########
+2017-08-19 00:52:20,002 - collection.ObjectRepository2 -INFO - #######Input username##########
+2017-08-19 00:52:20,825 - collection.ObjectRepository2 -INFO - #######input password##########
+2017-08-19 00:55:10,353 - collection.ObjectRepository2 -INFO - #######Firefox Opened##########
+2017-08-19 00:55:10,841 - collection.ObjectRepository2 -INFO - #######Window maximized##########
+2017-08-19 00:55:57,626 - collection.ObjectRepository2 -INFO - #######Url Entered##########
+2017-08-19 00:56:49,410 - collection.ObjectRepository2 -INFO - #######Input username##########
+2017-08-19 00:56:49,509 - collection.ObjectRepository2 -INFO - #######input password##########
+2017-08-19 00:58:30,470 - collection.ObjectRepository2 -INFO - #######logout button##########
+2018-11-07 19:01:03,091 - Log4Class -INFO - #######Firefox Opened##########
+2018-11-07 19:01:03,682 - Log4Class -INFO - #######Browser Maximized##########
+2018-11-07 19:01:29,935 - Log4Class -INFO - #######Fetching url##########
+2018-11-07 19:01:31,803 - Log4Class -INFO - #######Inserting Valid Userid##########
+2018-11-07 19:01:32,076 - Log4Class -INFO - #######Inserting Valid Password##########
